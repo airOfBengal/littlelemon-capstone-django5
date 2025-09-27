@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # Local apps
     'reservation.apps.ReservationConfig',
+    'restaurant.apps.RestaurantConfig',
 ]
 
 MIDDLEWARE = [
